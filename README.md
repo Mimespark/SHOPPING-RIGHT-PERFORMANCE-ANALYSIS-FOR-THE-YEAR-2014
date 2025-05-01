@@ -1,3 +1,6 @@
+
+![Shopping-right analytical dashboard - done by Chichetaram Miriam Ekwe](https://github.com/user-attachments/assets/159b71c2-902c-4ef9-ae8a-c28360bfd69c)
+
 INTRODUCTION
 
 The data used in this analysis comes from a lesson at Vephla University, detailing goods sold by each salesperson across various cities where the grocery store are located for the year 2014. The data was thoroughly cleaned, processed and analyzed using Microsoft Excel. The dataset consists of multiple columns which I grouped under two (2) categories:
@@ -7,8 +10,6 @@ INDEPENDANT DATA VARIABLES; Customer name, Salesperson, Region, Ship name, Ship 
 DEPENDANT DATA VARIABLES; Quality, Revenue, Unit Price and Shipping Price.
 
 Before starting this analysis, I mapped out a plan to pinpoint key insights and possible analysis, which guided me in building an interactive analytical dashboard.
-
-![Uploading Shopping-right analytical dashboard - done by Chichetaram Miriam Ekwe.jpg…]()
 
 A pre-analysis board
 
