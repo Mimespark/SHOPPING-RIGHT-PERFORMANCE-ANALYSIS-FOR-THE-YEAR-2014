@@ -8,6 +8,7 @@ DEPENDANT DATA VARIABLES; Quality, Revenue, Unit Price and Shipping Price.
 
 Before starting this analysis, I mapped out a plan to pinpoint key insights and possible analysis, which guided me in building an interactive analytical dashboard.
 
+![Uploading Shopping-right analytical dashboard - done by Chichetaram Miriam Ekwe.jpg…]()
 
 A pre-analysis board
 
